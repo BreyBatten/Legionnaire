@@ -1,0 +1,19 @@
+{
+  "name": "legionnaire",
+  "version": "1.0.0",
+  "description": "Dashboard for Legionnaire program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreyBatten/Legionnaire.git"
+  },
+  "author": "Brey Batten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BreyBatten/Legionnaire/issues"
+  },
+  "homepage": "https://github.com/BreyBatten/Legionnaire#readme"
+}
